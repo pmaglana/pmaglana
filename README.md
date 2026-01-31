@@ -1,4 +1,4 @@
-<h1>Hey, I'm Paulo, an <a href="www.linkedin.com/in/paulomaglana">IT Professional</a>☺</h1>
+<h1>Hey, I'm Paulo, an <a href="https://linkedin.com/in/paulomaglana">IT Professional</a>☺</h1>
 
 <h2>Information Technology Projects:</h2>
 
@@ -16,6 +16,6 @@
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: www.twitter.com
-[instagram]: www.instagram.com
-[linkedin]: www.linkedin.com/in/paulomaglana
+[twitter]: https://twitter.com
+[instagram]: https://instagram.com
+[linkedin]: https://linkedin.com/in/paulomaglana
