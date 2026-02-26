@@ -2,8 +2,9 @@
 
 <h2>Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure & Remote Desktop</b>
   - [Intro to MS Azure Virtual Machines](https://github.com/pmaglana/azure-active-directory)
+  - [How to use Remote Desktop in Windows](https://github.com/pmaglana/azure-active-directory)
     
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Installing osTicket on a Virtual Machine](https://github.com/pmaglana/osTicket)
