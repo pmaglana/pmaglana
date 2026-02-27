@@ -4,7 +4,7 @@
 
 - <b><h3>Microsoft Azure</h3></b>
   - [Creating MS Azure Virtual Machines](https://github.com/pmaglana/azure-active-directory)
-  - Firewall (NSG) Configuration & Observing Network Traffic using Wireshark
+  - [NSG Configuration & Observing Network Traffic using Wireshark](https://github.com/pmaglana/azure-net_traffic)
   - Understanding Domain Name System
     
 - <b><h3>osTicket (Help Desk Ticketing System)</h3></b>
