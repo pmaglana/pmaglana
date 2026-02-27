@@ -2,17 +2,17 @@
 
 <h2>Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
+- <b><h3>Microsoft Azure</h3></b>
   - [Creating MS Azure Virtual Machines](https://github.com/pmaglana/azure-active-directory)
   - Observing Network Traffic with Wireshark
   - Understanding DNS
     
-- <b>osTicket (Help Desk Ticketing System)</b>
+- <b><h3>osTicket (Help Desk Ticketing System)</h3></b>
   - [Installing osTicket on a Virtual Machine](https://github.com/pmaglana/osTicket)
   - osTicket Post-Installation Configuration
   - Ticket Lifecycle Simulation
 
-- <b>Active Directory</b>
+- <b><h3>Active Directory</h3></b>
   - Configuration & Deployment in Azure
   - Creating Users using PowerShell
   - Group Policy and Managing Accounts
