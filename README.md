@@ -5,7 +5,7 @@
 - <b><h3>Microsoft Azure</h3></b>
   - [Creating MS Azure Virtual Machines](https://github.com/pmaglana/azure-active-directory)
   - [NSG Configuration & Observing Network Traffic using Wireshark](https://github.com/pmaglana/azure-net_traffic)
-  - [Understanding Domain Name System](https://github.com/pmaglana/azure-dns).
+  - [Domain Name System Fundamentals](https://github.com/pmaglana/azure-dns).
     
 - <b><h3>osTicket (Help Desk Ticketing System)</h3></b>
   - [Installing osTicket on a Virtual Machine](https://github.com/pmaglana/osTicket)
