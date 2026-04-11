@@ -13,5 +13,4 @@
 
 - <b><h3>Active Directory</h3></b>
   - [Active Directory Installation and Configuration](https://github.com/pmaglana/ad-config)
-  - [Creating Users using PowerShell](https://github.com/pmaglana/ad-users)
-  - [Group Policy and Managing Accounts](https://github.com/pmaglana/ad-policies)
+  - [Managing Users, Policies & Accounts](https://github.com/pmaglana/ad-users)
