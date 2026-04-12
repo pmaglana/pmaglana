@@ -13,4 +13,4 @@
 
 - <b><h3>Active Directory</h3></b>
   - [Active Directory Installation and Configuration](https://github.com/pmaglana/ad-config)
-  - [Managing Users, Policies & Accounts](https://github.com/pmaglana/ad-users)
+  - [Managing Users, Group Policies & Accounts](https://github.com/pmaglana/ad-users)
