@@ -1,8 +1,8 @@
 <h1>Hello, I'm Paulo, an <a href="https://linkedin.com/in/paulomaglana">IT Professional</h1>
 
-<h2>Cyber Security Projects:</h2>
+<h2>SECURITY PORTFOLIO</h2>
 
-<h2>Information Technology Projects:</h2>
+<h2>INFORMATION TECHNOLOGY PORTFOLIO</h2>
 
 - <b><h3>Microsoft Azure</h3></b>
   - [Creating MS Azure Virtual Machines](https://github.com/pmaglana/azure-active-directory)
