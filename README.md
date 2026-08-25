@@ -1,6 +1,6 @@
 <h1>Welcome, I'm Paulo, an <a href="https://linkedin.com/in/paulomaglana">IT Professional</h1>
 
-<h2>SECURITY PORTFOLIO</h2>
+<h2>CYBER SECURITY PORTFOLIO</h2>
 
 <h2>INFORMATION TECHNOLOGY PORTFOLIO</h2>
 
