@@ -1,4 +1,4 @@
-<h1>Hello, I'm Paulo, an <a href="https://linkedin.com/in/paulomaglana">IT Professional</h1>
+<h1>Welcome, I'm Paulo, an <a href="https://linkedin.com/in/paulomaglana">IT Professional</h1>
 
 <h2>SECURITY PORTFOLIO</h2>
 
