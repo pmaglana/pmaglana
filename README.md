@@ -1,5 +1,7 @@
 <h1>Hello, I'm Paulo, an <a href="https://linkedin.com/in/paulomaglana">IT Professional</h1>
 
+<h2>Cyber Security Projects:</h2>
+
 <h2>Information Technology Projects:</h2>
 
 - <b><h3>Microsoft Azure</h3></b>
