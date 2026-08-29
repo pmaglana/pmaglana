@@ -3,9 +3,6 @@
 --->
 <h2>CYBER SECURITY PORTFOLIO</h2>
 Documented cloud security investigations, built in a live Azure tenant.
-Target role: SOC Analyst</br>
-Currently: [Career Switch] | [Sacramento-Roseville Area / Remote] </br>
-Contact: easy.patch3668@fastmail.com · https://www.linkedin.com/in/paulomaglana/
 
 ## Investigations
 | # | Title | Focus |
