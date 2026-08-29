@@ -1,6 +1,6 @@
 <!---
 <h1>Welcome, I'm Paulo, an <a href="https://linkedin.com/in/paulomaglana">IT Professional</h1>
-
+--->
 <h2>CYBER SECURITY PROJECTS</h2>
 
 <h2>INFORMATION TECHNOLOGY PROJECTS</h2>
