@@ -2,6 +2,25 @@
 <h1>Welcome, I'm Paulo, an <a href="https://linkedin.com/in/paulomaglana">IT Professional</h1>
 --->
 <h2>CYBER SECURITY PORTFOLIO</h2>
+Documented cloud security investigations, built in a live Azure tenant.
+Target role: SOC Analyst</br>
+Currently: [Career Switch] | [Sacramento-Roseville Area / Remote] </br>
+Contact: easy.patch3668@fastmail.com · https://www.linkedin.com/in/paulomaglana/
+
+## Investigations
+| # | Title | Focus |
+|---|-------|-------|
+| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail |
+| 2 | The Stolen Identity | App registration attack kill chain (Entra ID) |
+| 3 | Privilege Audit | RBAC and least privilege |
+| 4 | Spin Up and Lock Down | Compute attack surface |
+| 5 | Network the Operative | Network segmentation |
+| 6 | Bucket Looting | Storage exposure hunting | 
+| 7 | Find the Anomaly | Log analysis and KQL |
+| 8 | Hunt the Threat | SIEM operations (Sentinel) |
+| 9 | Score the Tenant | Cloud security posture |
+| 10 | The Breach (capstone) | Full incident investigation |
+</br>
 
 <h2>INFORMATION TECHNOLOGY PORTFOLIO</h2>
 <!---
