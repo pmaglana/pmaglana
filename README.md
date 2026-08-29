@@ -7,7 +7,7 @@ Documented cloud security investigations, built in a live Azure tenant.
 ## Investigations
 | # | Title | Focus |
 |---|-------|-------|
-| 1 | Operation Dead Deploy | Governance forensics, deployment audit trail |
+| 1 | [Operation Dead Deploy](https://github.com/pmaglana/op-dead-deploy/blob/main/README.md) | Governance forensics, deployment audit trail |
 | 2 | The Stolen Identity | App registration attack kill chain (Entra ID) |
 | 3 | Privilege Audit | RBAC and least privilege |
 | 4 | Spin Up and Lock Down | Compute attack surface |
@@ -24,7 +24,7 @@ Documented cloud security investigations, built in a live Azure tenant.
 - <b><h3>Microsoft Azure</h3></b>
   - [Creating MS Azure Virtual Machines](https://github.com/pmaglana/azure-active-directory)
   - [NSG Configuration & Observing Network Traffic using Wireshark](https://github.com/pmaglana/azure-net_traffic)
- <!---   
+<!---
 - <b><h3>osTicket (Help Desk Ticketing System)</h3></b>
   - [Installing osTicket on a Virtual Machine](https://github.com/pmaglana/osTicket)
   - [osTicket Initial Configuration](https://github.com/pmaglana/osTicket-config)
