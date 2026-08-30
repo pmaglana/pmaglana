@@ -18,6 +18,8 @@ Documented cloud security investigations, built in a live Azure tenant.
 | 9 | Score the Tenant | Cloud security posture | coming, week 9 |
 | 10 | The Breach (capstone) | Full incident investigation | coming, week 10 |
 </br>
+
+<!---
 <h2>INFORMATION TECHNOLOGY PORTFOLIO</h2>
 
 - <b><h3>Microsoft Azure</h3></b>
